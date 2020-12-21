@@ -15,7 +15,7 @@ To date I've created a handful of fairly well-known bots, including:
 
 I've also got some others, like Enderbot and Form Fox. Feel free to check out [this organization](https://github.com/greys-bots) for more info
 
-On top of my own bots, I've also helped contribute to other ones by creating websites and offering code changes! A couple examples are [Blossom](https://blossombot.pink) and [PluralKit](https://pk.greysdawn.com)  
+On top of my own bots, I've also helped contribute to other ones by creating websites and offering code changes! A couple examples are [Blossom](https://blossombot.pink) and [PluralKit](https://pk.greysdawn.com). I've also contributed to [both](https://github.com/Blossombot/Website) [bots](https://github.com/xSke/Pluralkit) (2 links) along with another called [Tupperbox](https://github.com/Keterr/Tupperbox) (Note that Blossom itself is currently private, and only the website is public)  
 I've also got my own website where I post comics, flags, and other things [here](https://greysdawn.com)
 
 Aside from bots, I've dabbled in game design and other small endeavors. I have a prototype DID-oriented notes app [here](https://github.com/greysdawn/syscomm) and a prototype game [here](https://github.com/greysdawn/anima-ptt)  
