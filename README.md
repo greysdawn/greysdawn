@@ -10,6 +10,7 @@ My main programming language is JavaScript (using Nodejs), but I've also used Py
 To date I've created a handful of fairly well-known bots, including:
 - [Sheep](https://github.com/greys-bots/sheep)
 - [Ticket Golem](https://github.com/greys-bots/ticket-golem)
+- [Form Fox](https://github.com/greys-bots/form-fox)
 - And [Alex](https://github.com/greys-bots/alex)!
 
 I've also got some others, like Enderbot and Form Fox. Feel free to check out [this organization](https://github.com/greys-bots) for more info
