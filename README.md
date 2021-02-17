@@ -3,7 +3,7 @@ Hiya, I'm Grey! I'm a software engineer dealing primarily in Discord bots, websi
 I'm trans/nonbinary and my preferred pronouns are he/him and they/them
 
 I'm currently out of school, but in the past I've attended Mott Community College and Lawrence Technological University. I've also been part of a robotics team, specifically team 314 (The Megatron Oracles/Big MO), as both a student and mentor in training. I have also completed a computer hardware course and received both the CompTIA IT Fundamentals and A+ certifications  
-My main programming language is JavaScript (using Nodejs), but I've also used Python, C++, and Lua, and I'm very open to learning new ones! I use SQLite and PostgreSQL for my own projects as well, and often create my own full stack applications (utilizing Expressjs, React, and PgSQL) from the ground up
+My main programming language is JavaScript (using Nodejs), but I've also used Python, C++, and Lua, and I'm very open to learning new ones! I use SQLite, PostgreSQL, and MongoDB for my own projects as well, and often create my own full stack applications (utilizing Expressjs, React, and PgSQL) from the ground up
 
 # Projects
 
