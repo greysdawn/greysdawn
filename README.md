@@ -15,7 +15,7 @@ To date I've created a handful of fairly well-known bots, including:
 
 I've also got some others, like Enderbot and Form Fox. Feel free to check out [this organization](https://github.com/greys-bots) for more info
 
-On top of my own bots, I've also helped contribute to other ones by creating websites and offering code changes! A couple examples are [Blossom](https://blossombot.pink) and [PluralKit](https://pk.greysdawn.com). I've also contributed to [both](https://github.com/Blossombot/Website) [bots](https://github.com/xSke/Pluralkit) (2 links) along with another called [Tupperbox](https://github.com/Keterr/Tupperbox) (Note that Blossom itself is currently private, and only the website is public)  
+On top of my own bots, I've also helped contribute to other ones by creating websites and offering code changes! A good example is [PluralKit](https://pk.greysdawn.com). I've also contributed to the [bot](https://github.com/xSke/Pluralkit) along with another called [Tupperbox](https://github.com/Runi-c/Tupperbox) and am on the official dev team for the latter  
 I've also got my own website where I post comics, flags, and other things [here](https://greysdawn.com)
 
 Aside from bots, I've dabbled in game design and other small endeavors. I have a prototype DID-oriented notes app [here](https://github.com/greysdawn/syscomm) and a prototype game [here](https://github.com/greysdawn/anima-ptt)  
@@ -24,7 +24,10 @@ There's also a personal markdown site [here](https://github.com/greysdawn/md-bin
 # Commissions and Support
 I'm currently offering bot and website commissions! Check out [this doc](https://docs.google.com/document/d/1hvqvqdWj0mpHeNjo_mr2AHF7La32nkp4BDLxO1dvTHw/edit?usp=drivesdk) for more information
 
-If you'd like to support me another way, you can [buy me a Ko-Fi](https://ko-fi.com/greysdawn) or [become a Patron](https://patreon.com/greysdawn) for as little as $1USD :D
+If you'd like to support me another way, you can check these out:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0KHQ7)  
+[Become a Patron!](https://www.patreon.com/bePatron?u=19274323)
 
 # Contact
 If you need help with anything, feel free to email me at greysdawn@gmail.com, DM me on Discord @ (GS)#6969, or join my [bot support server](https://discord.gg/EvDmXGt)
