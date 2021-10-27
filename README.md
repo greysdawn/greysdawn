@@ -6,6 +6,14 @@ I'm currently out of school, but in the past I've attended Mott Community Colleg
 
 My main programming language is JavaScript (using Nodejs), but I've also used Python, C++, and Lua, and I'm very open to learning new ones! I use SQLite, PostgreSQL, and MongoDB for my own projects as well, and often create my own full stack applications (utilizing Expressjs, React, and more recently Svelte) from the ground up
 
+# Stats Overview
+[![trophy](https://github-profile-trophy.vercel.app/?username=greysdawn&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Grey's GitHub stats](https://github-readme-stats.vercel.app/api?username=greysdawn&show_icons=true&theme=github_dark&count_private=true)  
+![Grey's profile info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greysdawn&theme=github_dark)  
+![Grey's language stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=greysdawn&theme=github_dark)
+![Grey's commit stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greysdawn&theme=github_dark)
+
 # Projects
 
 To date I've created a handful of fairly well-known bots, including:
