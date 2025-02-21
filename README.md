@@ -39,12 +39,12 @@ A Rich Presence Client (RPC) that can display your current fronters on Discord. 
 ### Twitch Overlay ([repo](https://github.com/greys-tools/twitch-overlay))
 A simple chat and alerts overlay setup for Twitch, built using JQuery and the server-sent events API
 
-## Support me!
-Every contribution helps me keep my projects alive. If you like what I do, please consider helping me out! You can do so at any of these links:
+## Support us!
+Every contribution helps me keep our projects alive. If you like what we do, please consider helping us out! You can do so at any of these links:
 - [Liberapay](https://liberapay.com/greysdawn/)
 - [Ko-Fi](https://ko-fi.com/greysdawn)
 - [Patreon](https://patreon.com/greysdawn)
-
+- [Buy Us a Coffee](https://buymeacoffee.com/greysdawn)
 
 ## Contact
 If you need help with anything, feel free to open an issue on the relevant repo, DM us on Discord @ **greysdawn**, or join our [support server](https://discord.gg/EvDmXGt)!
